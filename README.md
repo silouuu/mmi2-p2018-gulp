@@ -1,3 +1,5 @@
+See project on <https://jovial-dubinsky-9c1918.netlify.com/>
+
 Note : for each instruction below, you can of course also use ```npm``` instead of ```yarn```
 # Setup
 Clone the project, move to the directory and run ```yarn install```
